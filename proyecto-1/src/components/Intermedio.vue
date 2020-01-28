@@ -125,7 +125,7 @@ export default {
     transition: 0.15s;
 }
 .container .card:hover h1{
-color:rgb(255, 255, 255);
+color:rgb(253, 255, 255);
 }
 
 .container{
