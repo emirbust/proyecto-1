@@ -14,7 +14,7 @@
                             <div class="card-content ">
                                 <div class="content ">
                                     <h1 class="is-size-4">
-                                        bulma
+                                        bulmeaq
                                     </h1>
                                     <p>la pagina para todo el estilo de la pagina web</p>
                                 </div>
